@@ -5,9 +5,9 @@
 
 💬 I'm a Full Stack Developer coding professionally since 2006<br/>
 📧️ You can reach me through emilio.pedrollo[at]gmail.com<br/>
+📖️ Graduating on Information Systems at UFSM<br/>
 🐮️ Currently creating software at CowMed<br/>
 🇧🇷️ Brazilian born and raised<br/>
-📖️ Graduating on Information Systems on UFSM<br/>
 
 <!--
 **emiliopedrollo/emiliopedrollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
