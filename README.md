@@ -1,7 +1,7 @@
 
 # Emilio B. Pedrollo
 
-### Hi there 👋
+### Hello there 👋
 
 💬 I'm a Full Stack Developer coding professionally since 2006<br/>
 📧️ You can reach me through emilio.pedrollo[at]gmail.com<br/>
