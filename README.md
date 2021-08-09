@@ -1,10 +1,13 @@
 
 # Emilio B. Pedrollo
 
+[![Linkedin Badge](https://img.shields.io/badge/-Emilio%20B.%20Pedrollo-2977c9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dalmolin-da-silva/)](https://www.linkedin.com/in/emiliopedrollo/) 
+[![Gmail Badge](https://img.shields.io/badge/-emilio.pedrollo@gmail.br-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emilio.pedrollo@gmail.com)](mailto:emilio.pedrollo@gmail.com)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/emiliopedrollo?style=flat-square)](https://keybase.io/emiliopedrollo)
+
 ### Hello there 👋
 
 💬 I'm a Full Stack Developer coding professionally since 2006<br/>
-📧️ You can reach me through emilio.pedrollo[at]gmail.com<br/>
 📖️ Graduating on Information Systems at UFSM<br/>
 🐮️ Currently creating software at CowMed<br/>
 🇧🇷️ Brazilian born and raised<br/>
