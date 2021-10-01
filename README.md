@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   <img height="168em" alt="Emilio B. Pedrollo TopLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliopedrollo&layout=compact&theme=dark&count_private=true"/>
 </div>
 
-<!-- ![Snake animation](https://github.com/emiliopedrollo/emiliopedrollo/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/emiliopedrollo/emiliopedrollo/blob/output/github-contribution-grid-snake.svg)
