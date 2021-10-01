@@ -1,7 +1,7 @@
 
 # Emilio B. Pedrollo
 
-[![Linkedin Badge](https://img.shields.io/badge/-Emilio%20B.%20Pedrollo-2977c9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dalmolin-da-silva/)](https://www.linkedin.com/in/emiliopedrollo/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Emilio%20B.%20Pedrollo-2977c9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dalmolin-da-silva/)](https://www.linkedin.com/in/emiliopedrollo/)
 [![Gmail Badge](https://img.shields.io/badge/-emilio.pedrollo@gmail.br-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emilio.pedrollo@gmail.com)](mailto:emilio.pedrollo@gmail.com)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/emiliopedrollo?style=flat-square)](https://keybase.io/emiliopedrollo)
 
@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Emilio B. Pedrollo github stats](https://github-readme-stats.vercel.app/api?username=emiliopedrollo&count_private=true&show_icons=true&theme=dark&hide=stars)
+<div>
+  <img height="180em" alt="Emilio B. Pedrollo github stats" src="https://github-readme-stats.vercel.app/api?username=emiliopedrollo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="180em" alt="Emilio B. Pedrollo TopLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliopedrollo&layout=compact&theme=dark&count_private=true"/>
+</div>
 
-![Emilio B. Pedrollo TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliopedrollo&layout=compact&theme=dark)
+<!-- ![Snake animation](https://github.com/emiliopedrollo/emiliopedrollo/blob/output/github-contribution-grid-snake.svg) -->
