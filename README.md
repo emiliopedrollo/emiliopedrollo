@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Emilio%20B.%20Pedrollo-2977c9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dalmolin-da-silva/)](https://www.linkedin.com/in/emiliopedrollo/)
 [![Gmail Badge](https://img.shields.io/badge/-emilio.pedrollo@gmail.br-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emilio.pedrollo@gmail.com)](mailto:emilio.pedrollo@gmail.com)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/emiliopedrollo?style=flat-square)](https://keybase.io/emiliopedrollo)
+![Page Views](https://komarev.com/ghpvc/?username=emiliopedrollo&style=flat-square)
 
 ### Hello there 👋
 
