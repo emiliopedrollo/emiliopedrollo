@@ -9,7 +9,6 @@
 ### Hello there 👋
 
 💬 I'm a Full Stack Developer coding professionally since 2006<br/>
-📖️ Graduating on Information Systems at UFSM<br/>
 🐮️ Currently creating software at CowMed<br/>
 🇧🇷️ Brazilian born and raised<br/>
 
