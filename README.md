@@ -1,8 +1,8 @@
 
 # Emilio B. Pedrollo
 
-[![Linkedin Badge](https://img.shields.io/badge/-Emilio%20B.%20Pedrollo-2977c9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-dalmolin-da-silva/)](https://www.linkedin.com/in/emiliopedrollo/)
-[![Gmail Badge](https://img.shields.io/badge/-emilio.pedrollo@gmail.br-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emilio.pedrollo@gmail.com)](mailto:emilio.pedrollo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Emilio%20B.%20Pedrollo-2977c9?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emiliopedrollo/)
+[![Gmail Badge](https://img.shields.io/badge/-emilio.pedrollo@gmail.com-d93025?style=flat-square&logo=Gmail&logoColor=white)](mailto:emilio.pedrollo@gmail.com)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/emiliopedrollo?style=flat-square)](https://keybase.io/emiliopedrollo)
 ![Page Views](https://komarev.com/ghpvc/?username=emiliopedrollo&style=flat-square)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/emiliopedrollo/emiliopedrollo/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/emiliopedrollo/emiliopedrollo/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiliopedrollo/emiliopedrollo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiliopedrollo/emiliopedrollo/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/emiliopedrollo/emiliopedrollo/output/github-contribution-grid-snake.svg" />
 </picture>
