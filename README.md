@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img height="167em" alt="Emilio B. Pedrollo github stats" src="https://github-readme-stats.vercel.app/api?username=emiliopedrollo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="167em" alt="Emilio B. Pedrollo github stats" src="https://github-readme-stats.vercel.app/api?username=emiliopedrollo&show_icons=true&theme=dark&count_private=true&hide=stars"/>
   <img height="167em" alt="Emilio B. Pedrollo TopLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliopedrollo&layout=compact&theme=dark&count_private=true"/>
 </div>
 
