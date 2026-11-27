@@ -1,40 +1,49 @@
+<h1 align="center">Emilio B. Pedrollo</h1>
 
-# Emilio B. Pedrollo
+<p align="center">
+  <a href="https://www.linkedin.com/in/emiliopedrollo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:emilio.pedrollo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://keybase.io/emiliopedrollo"><img src="https://img.shields.io/keybase/pgp/emiliopedrollo?style=flat-square" alt="Keybase PGP" /></a>
+  <img src="https://komarev.com/ghpvc/?username=emiliopedrollo&style=flat-square" alt="Profile views" />
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Emilio%20B.%20Pedrollo-2977c9?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emiliopedrollo/)
-[![Gmail Badge](https://img.shields.io/badge/-emilio.pedrollo@gmail.com-d93025?style=flat-square&logo=Gmail&logoColor=white)](mailto:emilio.pedrollo@gmail.com)
-[![Keybase PGP](https://img.shields.io/keybase/pgp/emiliopedrollo?style=flat-square)](https://keybase.io/emiliopedrollo)
-![Page Views](https://komarev.com/ghpvc/?username=emiliopedrollo&style=flat-square)
+```php
+<?php
 
-### Hello there 👋
+namespace Emilio\Pedrollo;
 
-💬 I'm a Full Stack Developer coding professionally since 2006<br/>
-🐮️ Currently creating software at CowMed<br/>
-🇧🇷️ Brazilian born and raised<br/>
+final class AboutMe
+{
+    public string $role        = 'Full Stack Developer';
+    public int    $codingSince = 2006;
+    public string $company     = 'CowMed 🐮';
 
-<!--
-**emiliopedrollo/emiliopedrollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    public array $stack = [
+        'backend'  => ['PHP', 'Laravel', 'Node.js', 'Java', 'Kotlin', 'C', 'Rust'],
+        'frontend' => ['Vue', 'TypeScript', 'JavaScript', 'Blade'],
+        'infra'    => ['PostgreSQL', 'Docker', 'AWS'],
+        'tooling'  => ['Git', 'GitHub Actions', 'Bash', 'PhpStorm'],
+        'os'       => ['Arch Linux'],
+    ];
+}
+```
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,c,rust,java,kotlin,bash,laravel,vue,postgres,docker,aws,arch,git,githubactions,phpstorm&perline=9" alt="Tech stack" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">📊 Contribution activity</h3>
 
+<img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=emiliopedrollo&theme=github-compact&hide_border=true&area=true" />
 
-<div>
-  <img height="167em" alt="Emilio B. Pedrollo github stats" src="https://github-readme-stats.vercel.app/api?username=emiliopedrollo&show_icons=true&theme=dark&count_private=true&hide=stars"/>
-  <img height="167em" alt="Emilio B. Pedrollo TopLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliopedrollo&layout=compact&theme=dark&count_private=true"/>
-</div>
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=emiliopedrollo&theme=github-dark-blue&hide_border=true" />
+</p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiliopedrollo/emiliopedrollo/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiliopedrollo/emiliopedrollo/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/emiliopedrollo/emiliopedrollo/output/github-contribution-grid-snake.svg" />
 </picture>
+</p>
